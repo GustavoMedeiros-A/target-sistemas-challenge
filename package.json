@@ -1,0 +1,21 @@
+{
+  "name": "target-sistemas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Exercicio1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMedeiros-A/target-sistemas-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMedeiros-A/target-sistemas-challenge/issues"
+  },
+  "homepage": "https://github.com/GustavoMedeiros-A/target-sistemas-challenge#readme"
+}
